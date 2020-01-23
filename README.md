@@ -27,10 +27,10 @@
 ## My Favorite Languages/Techonologies Tutorial Guides  
 ### C#
 ![C# logo](https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png)  
-(Image provided by wikipedia)
+(Image provided by wikipedia)  
 [Learn more about C# and all its capabilities!](https://www.tutorialspoint.com/csharp/index.htm)
 
 ### Java
 ![Java logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)  
-(Image provided by wikipedia)
+(Image provided by wikipedia)  
 [Learn more about Java and all its capabilities!](https://www.tutorialspoint.com/java/index.htm)
