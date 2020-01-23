@@ -1,7 +1,7 @@
 # WebApplications-Module1-GithubPages
 
 ## Markdown Reference
-[Click here to learn all the things you can do in markdown!](https://www.markdownguide.org/basic-syntax/#escaping-characters)
+[Click here to learn all the things you can do in markdown!](https://www.markdownguide.org/basic-syntax)
 
 ## Languages/Technologies I Know
 - Java
